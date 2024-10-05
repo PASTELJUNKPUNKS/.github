@@ -1,5 +1,10 @@
-## PASTELJUNKPUNKS
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="PJPLogoWhite.png" height="192"><img alt="PASTELJUNKPUNKS" src="PJPLogoWhite.png"></picture>
+  <br><strong>P A S T E L J U N K P U N K S / パステルジャンクパンクス</strong>
+</p>
 
-This is just an art project which originated from Tallahassee, Florida in early 2023, focusing on music, games and videography; at some point, we might even create some NSFW artwork and animations in the future.
+art project from Tallahassee, Florida established in february 2023
 
-This readme is very rough so things will be changed from time to time. If you want to contact us for any inquiries, please write to pasteljunkpunks@gmail.com
+currently focusing on music, games and videos. at some point we'll have some NSFW stuff too ;) ehehe~
+
+contact us if you have any inquiries or want to scream at our face: pasteljunkpunks@gmail.com
