@@ -1,7 +1,7 @@
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="PJPLogoWhite.png" height="192"><img alt="PASTELJUNKPUNKS" src="PJPLogoWhite.png"></picture>
-  <br><strong>P&nbsp;&nbsp;A&nbsp;&nbsp;S&nbsp;&nbsp;T&nbsp;&nbsp;E&nbsp;&nbsp;L&nbsp;&nbsp;J&nbsp;&nbsp;U&nbsp;&nbsp;N&nbsp;&nbsp;K&nbsp;&nbsp;P&nbsp;&nbsp;U&nbsp;&nbsp;N&nbsp;&nbsp;K&nbsp;&nbsp;S<br>&#x3010;&nbsp;&#x30D1;&nbsp;&#x30B9;&nbsp;&#x30C6;&nbsp;&#x30EB;&nbsp;&#x30B8;&nbsp;&#x30E3;&nbsp;&#x30F3;&nbsp;&#x30AF;&nbsp;&#x30D1;&nbsp;&#x30F3;&nbsp;&#x30AF;&nbsp;&#x30B9;&nbsp;&#x3011;</strong>
-<br>o p e n - s o u r c e&nbsp;&nbsp;&nbsp;d e a t h c o r e</p>
+  <br><strong>P&nbsp;&nbsp;A&nbsp;&nbsp;S&nbsp;&nbsp;T&nbsp;&nbsp;E&nbsp;&nbsp;L&nbsp;&nbsp;J&nbsp;&nbsp;U&nbsp;&nbsp;N&nbsp;&nbsp;K&nbsp;&nbsp;P&nbsp;&nbsp;U&nbsp;&nbsp;N&nbsp;&nbsp;K&nbsp;&nbsp;S&#x3010;&nbsp;&#x30D1;&nbsp;&#x30B9;&nbsp;&#x30C6;&nbsp;&#x30EB;&nbsp;&#x30B8;&nbsp;&#x30E3;&nbsp;&#x30F3;&nbsp;&#x30AF;&nbsp;&#x30D1;&nbsp;&#x30F3;&nbsp;&#x30AF;&nbsp;&#x30B9;&nbsp;&#x3011;</strong>
+<br>o p e n - s o u r c e&nbsp;&nbsp;&nbsp;d e a t h c o r e&nbsp;&nbsp;&nbsp;a n d&nbsp;&nbsp;&nbsp;m a y b e&nbsp;&nbsp;&nbsp;s o m e&nbsp;&nbsp;&nbsp;c o o l&nbsp;&nbsp;&nbsp;s h i t</p>
 
 Just some random art project from Tallahassee, Florida established in February 2023
 
